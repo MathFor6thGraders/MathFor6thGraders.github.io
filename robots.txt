@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://MathFor6thGraders.github.io/sitemap.xml
